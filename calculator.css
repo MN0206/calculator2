@@ -1,0 +1,27 @@
+ 
+.box{
+    width: 270px;
+    padding: 15px;
+    background-color: black;
+    border-radius: 10px;
+    display:flex;
+    flex-wrap: wrap;
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    
+}
+#display{
+    padding:7px;
+    width: 300px;
+     margin-bottom: 10px;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border:0px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
